@@ -1,0 +1,14 @@
+[package]
+name = "cargo_rbe"
+version = "0.1.0"
+authors = ["dreamflytly <dreamflytly@163.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.27.1" # from crates.io
+#rand = {git = "https://github.com/rust-lang-nursery/rand"} */
+#bar = {path="../bar"}
+
+#build = build.rs # build script
