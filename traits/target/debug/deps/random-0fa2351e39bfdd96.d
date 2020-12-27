@@ -1,0 +1,12 @@
+/home/ubuntu/Documents/rust_by_example/traits/target/debug/deps/random-0fa2351e39bfdd96.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/default.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/sequence.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/source.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/value.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/xorshift.rs
+
+/home/ubuntu/Documents/rust_by_example/traits/target/debug/deps/librandom-0fa2351e39bfdd96.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/default.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/sequence.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/source.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/value.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/xorshift.rs
+
+/home/ubuntu/Documents/rust_by_example/traits/target/debug/deps/random-0fa2351e39bfdd96.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/default.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/sequence.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/source.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/value.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/xorshift.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/default.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/sequence.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/source.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/value.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/random-0.12.2/src/xorshift.rs:
