@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["add","First line is a short summary describing function"],["bad_add",""],["div","Usually doc comments may include sections \"Examples\", \"Panics\" and \"Failures\""],["divide_non_zero_result",""],["main",""],["sqrt",""]]});
